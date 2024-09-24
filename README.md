@@ -14,7 +14,7 @@ Node.js is essential for running JavaScript code outside the browser and managin
   ```bash
   node -v
   ```
-[Watch Video Tutorial](../static/video/Install%20Nodejs.mp4) 
+[Watch Video Tutorial](https://drive.google.com/file/d/1xLCWtBekfeAtE6l0nl3uYwWwoXmbxzs5/view) 
 ### 2. Zet CLI
 Zet CLI is used to scaffold and manage your Zoho widgets project.
 
@@ -26,7 +26,7 @@ Zet CLI is used to scaffold and manage your Zoho widgets project.
   ```bash
   zet -v
   ```
-[Watch Video Tutorial](../static/video/Install%20ZCLI%20&%20Create%20First%20Project.mp4) 
+[Watch Video Tutorial](https://drive.google.com/file/d/1FG_Dcg_cGuyM6bf-P4eOJW-4mBaNDFQQ/view?usp=sharing) 
 
 ### 3. GitHub Desktop
 GitHub Desktop allows you to manage your code and collaborate with others using Git.
@@ -48,7 +48,7 @@ After GitHub Desktop is installed and configured, follow these steps to clone an
 
 For a step-by-step visual guide, you can watch the following video tutorial:
 
-[Watch Video Tutorial](../static/video/Install%20Reactjs%20Project.mp4) 
+[Watch Video Tutorial](https://drive.google.com/file/d/1JziweguxQWsHacm5zmrcdZUYQ-SGDn4-/view?usp=sharing) 
 
 ## Setting up the Development Environment
 
